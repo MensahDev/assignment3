@@ -1,0 +1,149 @@
+html,body{
+    width:100%;
+    height:100%;
+    margin:0;   
+    font-family: Arial, Helvetica, sans-serif;        
+}
+.wrap{
+    width:100%;
+    height:100%;
+    text-align:center;
+    display:flex;
+    justify-content: center;
+   
+}
+.wrap-inner{
+    width:100%;
+    max-width:1100px;
+    
+}
+.profile-h{
+    width:100%;
+    height:300px;
+
+}
+.content-wrap{
+    width:100%;
+
+    height:100%;
+}
+.profile-body{
+    float:left;
+    width:calc(100% - 370px);
+    height:100%;
+
+}
+.profile-img{
+    float:right;
+    width:250px;
+    height:250px;
+    margin-top:25px;
+    display:flex;
+    margin-right:50px;
+    justify-content: center;
+    align-items: center; 
+    overflow: hidden;
+}
+
+h1,p{
+    margin-left:20px;
+    text-align:left;
+}
+.side-bar{
+    float:right;
+    width:250px;
+    height:100%;
+    
+}
+p{
+    
+}
+.content{
+    float:left;
+    width:calc(100% - 250px);
+    height:100%;
+}
+h2,h3,li{
+    margin-left:20px;
+    text-align:left;
+}
+
+.skills{
+    width:200px;
+    margin-top:10px;
+}
+
+.skills-h{
+    height:39px;
+    
+    background-color:violet;
+    border-bottom:1px solid rgba(0, 0, 0, 0.1);
+}
+.skills-body{
+    height:calc(100% - 39px);
+   
+}
+.skills-h p{
+    color:pink;
+   
+}
+
+.skills-cell p{
+    font-size:16px;
+    margin-left:20px;
+}
+.skills-cell span{
+   color:black;
+}
+
+.intro{
+    height:170px;
+    margin-top:20px;
+    width:100%;
+}
+.logo-frame{
+    width:150px;
+    height:150px;
+    float:left;
+    margin-bottom:20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:75px;box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 2px;
+    background-color: #49A378;
+}
+.material-icons{
+    font-size:100px;
+    color:rgba(0,0,0,0.50);
+    display:inline-block;
+}
+.intro-con{
+    width:calc(100% - 170px);
+    height:150px;
+    float:right;
+    margin-bottom:20px;
+}
+.intro-con p,h1,h3,h2{
+   
+}
+.intro-h{
+    
+}
+.intro-sub-h{
+  
+}
+.intro-sub-h p{
+    font-size:18px;
+    font-weight:400;
+    color:rgba(0, 0, 0, 0.50);
+}
+.intro-b{
+    height:calc(100% - 70px);
+    margin-top:10px;
+}
+.experience,.backgr{
+    padding-bottom:10px;
+    margin-bottom:20px;
+}
+
+

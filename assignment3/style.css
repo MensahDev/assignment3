@@ -1,0 +1,39 @@
+body { background:cornsilk; color:black; margin-left:15%; margin-right:15%; text-align:justify }
+P { text-indent: 1em; margin-top: .25em; margin-bottom: .25em; font-family:fantasy}
+H1,H2,H3,H4,H5,H6 { text-align:left; margin-left: 15%; margin-right: 15%;color:darkslategray }
+hr  { width: 50%; text-align: center;}
+.foot { margin-left: 20%; margin-right: 20%; text-align: justify; text-indent: -3em; font-size: 90%; }
+blockquote {font-size: 100%; margin-left: 0%; margin-right: 0%;}
+.mynote    {background-color: #DDE; color: #000; padding: .5em; margin-left: 10%; margin-right: 10%; font-family: sans-serif; font-size: 95%;}
+.toc       { margin-left: 10%; margin-bottom: .75em;}
+.toc2      { margin-left: 20%;}
+div.fig    { display:block; margin:0 auto; text-align:center; }
+div.middle { margin-left: 20%; margin-right: 20%; text-align: justify; }
+.figleft   {float: left; margin-left: 0%; margin-right: 1%;}
+.figright  {float: right; margin-right: 0%; margin-left: 1%;}
+.pagenum   {display:inline; font-size: 70%; font-style:normal;
+           margin: 0; padding: 0; position: absolute; right: 1%;
+           text-align: right;}
+pre        { font-family: times new roman; font-size: 100%; margin-left: 10%;}
+
+table      {margin-left: 10%;}
+
+a:link {color:lightskyblue;
+    text-decoration:none}
+link {color:lightskyblue;
+    text-decoration:none}
+a:visited {color:royalblue;
+    text-decoration:none}
+a:hover {color:forestgreen}
+
+.book-img{
+    width:100%;
+    max-height:700px;
+    text-align:center;
+  }
+  .book-img img{
+    max-width:100%;
+    max-height:700px;
+    
+    display:inline-block;
+  }

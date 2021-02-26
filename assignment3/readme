@@ -1,0 +1,9 @@
+body color was changed to cornsilk
+paragraph font family was changed to sans-serif
+header color was changed to arkslategray
+header text align was changed to left;
+a link tag colors were changed to royalblue;
+visited link color was changed to royal blue;
+on hover effect color was changed to forestgreen;
+
+added a div tag to hold book image cover;
